@@ -25,4 +25,13 @@ tbody th {
         font-size: large;
         color: blueviolet;
     }
-    
+    footer { 
+     position: fixed; 
+    left: 10px; 
+     bottom: 5px; 
+     right: 10px;  
+    width: 100%; 
+     background-color: greenyellow;
+     color: rgb(15, 88, 29); 
+     text-align: center; 
+    } 
